@@ -1,0 +1,41 @@
+{
+  "name": "react-redux-combobox",
+  "description": "Combobox control within react/redux context",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Kurt Lippert",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "csstips": "0.3.0",
+    "html-webpack-plugin": "3.2.0",
+    "react": "16.7.0",
+    "react-bootstrap": "0.32.4",
+    "react-dom": "16.7.0",
+    "react-dom-factories": "1.0.2",
+    "react-redux": "6.0.0",
+    "react-router-dom": "4.3.1",
+    "redux": "4.0.1",
+    "redux-observable": "1.0.0",
+    "rxjs": "6.3.3",
+    "ts-loader": "5.3.3",
+    "typestyle": "2.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "10.12.18",
+    "@types/react": "16.7.18",
+    "@types/react-bootstrap": "0.32.15",
+    "@types/react-dom": "16.0.11",
+    "@types/react-dom-factories": "1.0.2",
+    "@types/react-redux": "6.0.12",
+    "@types/react-router-dom": "4.3.1",
+    "dotenv-cli": "1.4.0",
+    "parcel-bundler": "^1.11.0",
+    "ts-node": "7.0.1",
+    "tsconfig-paths": "3.7.0",
+    "tslint": "5.12.1",
+    "typescript": "3.2.2"
+  }
+}
